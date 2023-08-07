@@ -12,7 +12,6 @@ const session = require('express-session');
 const passport = require('passport');
 const cookieParser = require('cookie-parser');
 const MongoStore = require('connect-mongo');
-var cookieSession = require('cookie-session');
 require('./strategies/discord');
 app.use(
   cors({
