@@ -12,17 +12,17 @@ const session = require('express-session');
 const passport = require('passport');
 const cookieParser = require('cookie-parser');
 const MongoStore = require('connect-mongo');
+const config = require('./config');
 require('./strategies/discord');
+app.enable('trust proxy');
 app.use(
   cors({
     credentials: true,
-    secure: true,
-    origin: true,
+    origin: `${config.urlFront}`,
   })
 );
 
 app.use(cookieParser());
-// app.set('trust proxy', 1);
 app.use(
   session({
     secret: 'keyboard cat',
