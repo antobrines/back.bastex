@@ -29,9 +29,9 @@ app.use(
     resave: false,
     saveUninitialized: false,
     cookie: {
-      secure: true,
+      secure: false,
       maxAge: 600000000000000,
-      httpOnly: true,
+      sameSite: 'none',
     },
     store: MongoStore.create({
       mongoUrl:
