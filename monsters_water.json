@@ -1,0 +1,660 @@
+{
+    "1": [
+        {
+            "name": "Forest Keeper",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/36/Monster-Forest_Keeper-Water-Icon.png/revision/latest?cb=20230410024738",
+            "baseStars": 1,
+            "element": "water",
+            "type": "archer",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Horned Frog",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/11/Monster-Horned_Frog-Water-Icon.png/revision/latest?cb=20230410024743",
+            "baseStars": 1,
+            "element": "water",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Mushroom",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/9/92/Monster-Mushroom-Water-Icon.png/revision/latest?cb=20230410024751",
+            "baseStars": 1,
+            "element": "water",
+            "type": "archer",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Mimick",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/c/ce/Monster-Mimick-Water-Icon.png/revision/latest?cb=20230410024749",
+            "baseStars": 1,
+            "element": "water",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Slime",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/39/Monster-Slime-Water-Icon.png/revision/latest?cb=20230410024755",
+            "baseStars": 1,
+            "element": "water",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Sandman",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/55/Monster-Sandman-Water-Icon.png/revision/latest?cb=20230410024753",
+            "baseStars": 1,
+            "element": "water",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Ghost",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/d/dc/Monster-Ghost-Water-Icon.png/revision/latest?cb=20230410024739",
+            "baseStars": 1,
+            "element": "water",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Low Elemental",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/8/8a/Monster-Low_Elemental-Water-Icon.png/revision/latest?cb=20230410024747",
+            "baseStars": 1,
+            "element": "water",
+            "type": "assassin",
+            "awekeningName": "none"
+        }
+    ],
+    "2": [
+        {
+            "name": "Maned Boar",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/f8/Monster-Maned_Boar-Water-Icon.png/revision/latest?cb=20230410024748",
+            "baseStars": 2,
+            "element": "water",
+            "type": "knight",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Monster Flower",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/e/e8/Monster-Monster_Flower-Water-Icon.png/revision/latest?cb=20230410024750",
+            "baseStars": 2,
+            "element": "water",
+            "type": "archer",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Skull Soldier",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/b/bd/Monster-Skull_Soldier-Water-Icon.png/revision/latest?cb=20230410024755",
+            "baseStars": 2,
+            "element": "water",
+            "type": "warrior",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Mischievous Bat",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/c/c7/Monster-Mischievous_Bat-Water-Icon.png/revision/latest?cb=20230410024749",
+            "baseStars": 2,
+            "element": "water",
+            "type": "warrior",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Battle Scorpion",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/fb/Monster-Battle_Scorpion-Water-Icon.png/revision/latest?cb=20230410024735",
+            "baseStars": 2,
+            "element": "water",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Surprise Box",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/1f/Monster-Surprise_Box-Water-Icon.png/revision/latest?cb=20230410024756",
+            "baseStars": 2,
+            "element": "water",
+            "type": "warrior",
+            "awekeningName": "none"
+        }
+    ],
+    "3": [
+        {
+            "name": "Fairy",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/36/Monster-Fairy-Water-Icon.png/revision/latest?cb=20230410024738",
+            "baseStars": 3,
+            "element": "water",
+            "type": "support",
+            "awekeningName": "Elucia"
+        },
+        {
+            "name": "Living Armor",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/e/e4/Monster-Living_Armor-Water-Icon.png/revision/latest?cb=20230410024746",
+            "baseStars": 3,
+            "element": "water",
+            "type": "warrior",
+            "awekeningName": "Nickel"
+        },
+        {
+            "name": "Golem",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/8/8d/Monster-Golem-Water-Icon.png/revision/latest?cb=20230410024740",
+            "baseStars": 3,
+            "element": "water",
+            "type": "knight",
+            "awekeningName": "Kuhn"
+        },
+        {
+            "name": "Grim Reaper",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/a/a8/Monster-Grim_Reaper-Water-Icon.png/revision/latest?cb=20230410024741",
+            "baseStars": 3,
+            "element": "water",
+            "type": "warrior",
+            "awekeningName": "Hemos"
+        },
+        {
+            "name": "Serpent",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/4/4e/Monster-Serpent-Water-Icon.png/revision/latest?cb=20230410024754",
+            "baseStars": 3,
+            "element": "water",
+            "type": "warrior",
+            "awekeningName": "Shailoq"
+        },
+        {
+            "name": "Frankenstein",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/7c/Monster-Frankenstein-Water-Icon.png/revision/latest?cb=20230410024739",
+            "baseStars": 3,
+            "element": "water",
+            "type": "knight",
+            "awekeningName": "Tractor"
+        },
+        {
+            "name": "Salamander",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/6/66/Monster-Salamander-Water-Icon.png/revision/latest?cb=20230410024753",
+            "baseStars": 3,
+            "element": "water",
+            "type": "warrior",
+            "awekeningName": "Kaimann"
+        },
+        {
+            "name": "Harpy",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/9/98/Monster-Harpy-Water-Icon.png/revision/latest?cb=20230410024742",
+            "baseStars": 3,
+            "element": "water",
+            "type": "assassin",
+            "awekeningName": "Ramira"
+        },
+        {
+            "name": "Charger Shark",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/2/27/Monster-Charger_Shark-Water-Icon.png/revision/latest?cb=20230410024736",
+            "baseStars": 3,
+            "element": "water",
+            "type": "assassin",
+            "awekeningName": "Aqcus"
+        },
+        {
+            "name": "Mummy",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/2/24/Monster-Mummy-Water-Icon.png/revision/latest?cb=20230410024750",
+            "baseStars": 3,
+            "element": "water",
+            "type": "warrior",
+            "awekeningName": "Nubia"
+        },
+        {
+            "name": "Imp",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/7b/Monster-Imp-Water-Icon.png/revision/latest?cb=20230410024745",
+            "baseStars": 3,
+            "element": "water",
+            "type": "assassin",
+            "awekeningName": "Fynn"
+        },
+        {
+            "name": "Pixie",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/3b/Monster-Pixie-Water-Icon.png/revision/latest?cb=20230410024752",
+            "baseStars": 3,
+            "element": "water",
+            "type": "mage",
+            "awekeningName": "Kacey"
+        },
+        {
+            "name": "Hellhound",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/2/29/Monster-Hellhound-Water-Icon.png/revision/latest?cb=20230418233226",
+            "baseStars": 3,
+            "element": "water",
+            "type": "assassin",
+            "awekeningName": "Tarq"
+        },
+        {
+            "name": "Garuda",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/ff/Monster-Garuda-Water-Icon.png/revision/latest?cb=20230418233226",
+            "baseStars": 3,
+            "element": "water",
+            "type": "knight",
+            "awekeningName": "Konamiya"
+        },
+        {
+            "name": "Warbear",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/77/Monster-Warbear-Water-Icon.png/revision/latest?cb=20230410024757",
+            "baseStars": 3,
+            "element": "water",
+            "type": "knight",
+            "awekeningName": "Dagora"
+        },
+        {
+            "name": "Elemental",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/d/dc/Monster-Elemental-Water-Icon.png/revision/latest?cb=20230410024737",
+            "baseStars": 3,
+            "element": "water",
+            "type": "assassin",
+            "awekeningName": "Daharenos"
+        },
+        {
+            "name": "Yeti",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/5b/Monster-Yeti-Water-Icon.png/revision/latest?cb=20230410024758",
+            "baseStars": 3,
+            "element": "water",
+            "type": "assassin",
+            "awekeningName": "Kunda"
+        },
+        {
+            "name": "Gore",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/59/Monster-Gore-Water-Icon.png/revision/latest?cb=20230410024740",
+            "baseStars": 3,
+            "element": "water",
+            "type": "knight",
+            "awekeningName": "Digit"
+        }
+    ],
+    "4": [
+        {
+            "name": "Penguin Knight",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/10/Monster-Penguin_Knight-Water-Icon.png/revision/latest?cb=20230410024752",
+            "baseStars": 4,
+            "element": "water",
+            "type": "warrior",
+            "awekeningName": "Toma"
+        },
+        {
+            "name": "Vagabond",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/9/90/Monster-Vagabond-Water-Icon.png/revision/latest?cb=20230410024756",
+            "baseStars": 4,
+            "element": "water",
+            "type": "knight",
+            "awekeningName": "Allen"
+        },
+        {
+            "name": "Mystic Witch",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/d/dc/Monster-Mystic_Witch-Water-Icon.png/revision/latest?cb=20230410024751",
+            "baseStars": 4,
+            "element": "water",
+            "type": "support",
+            "awekeningName": "Megan"
+        },
+        {
+            "name": "High Elemental",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/9/93/Monster-High_Elemental-Water-Icon.png/revision/latest?cb=20230410024743",
+            "baseStars": 4,
+            "element": "water",
+            "type": "archer",
+            "awekeningName": "Ellena"
+        },
+        {
+            "name": "Griffon",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/a/ad/Monster-Griffon-Water-Icon.png/revision/latest?cb=20230410024741",
+            "baseStars": 4,
+            "element": "water",
+            "type": "warrior",
+            "awekeningName": "Kahn"
+        },
+        {
+            "name": "Inugami",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/d/d9/Monster-Inugami-Water-Icon.png/revision/latest?cb=20230410024745",
+            "baseStars": 4,
+            "element": "water",
+            "type": "knight",
+            "awekeningName": "Icaru"
+        },
+        {
+            "name": "Battle Mammoth",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/fc/Monster-Battle_Mammoth-Water-Icon.png/revision/latest?cb=20230410024735",
+            "baseStars": 4,
+            "element": "water",
+            "type": "knight",
+            "awekeningName": "Talc"
+        },
+        {
+            "name": "Lizardman",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/ff/Monster-Lizardman-Water-Icon.png/revision/latest?cb=20230410024747",
+            "baseStars": 4,
+            "element": "water",
+            "type": "warrior",
+            "awekeningName": "Kermodon"
+        },
+        {
+            "name": "Martial Cat",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/8/8b/Monster-Martial_Cat-Water-Icon.png/revision/latest?cb=20230410024748",
+            "baseStars": 4,
+            "element": "water",
+            "type": "assassin",
+            "awekeningName": "Mina"
+        },
+        {
+            "name": "Amazon",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/8/82/Monster-Amazon-Water-Icon.png/revision/latest?cb=20230418060631",
+            "baseStars": 4,
+            "element": "water",
+            "type": "archer",
+            "awekeningName": "Ellin"
+        },
+        {
+            "name": "Werewolf",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/a/ab/Monster-Werewolf-Water-Icon.png/revision/latest?cb=20230410024757",
+            "baseStars": 4,
+            "element": "water",
+            "type": "knight",
+            "awekeningName": "Vigor"
+        },
+        {
+            "name": "Inferno",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/a/a5/Monster-Inferno-Water-Icon.png/revision/latest?cb=20230410024745",
+            "baseStars": 4,
+            "element": "water",
+            "type": "support",
+            "awekeningName": "Purian"
+        },
+        {
+            "name": "Cow Girl",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/8/8e/Monster-Cow_Girl-Water-Icon.png/revision/latest?cb=20230410024737",
+            "baseStars": 4,
+            "element": "water",
+            "type": "archer",
+            "awekeningName": "Sera"
+        },
+        {
+            "name": "Imp Champion",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/56/Monster-Imp_Champion-Water-Icon.png/revision/latest?cb=20230410024744",
+            "baseStars": 4,
+            "element": "water",
+            "type": "assassin",
+            "awekeningName": "Yaku"
+        },
+        {
+            "name": "Harpu",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/36/Monster-Harpu-Water-Icon.png/revision/latest?cb=20230410024742",
+            "baseStars": 4,
+            "element": "water",
+            "type": "warrior",
+            "awekeningName": "Sisroo"
+        },
+        {
+            "name": "Howl",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/a/a9/Monster-Howl-Water-Icon.png/revision/latest?cb=20230418060633",
+            "baseStars": 4,
+            "element": "water",
+            "type": "support",
+            "awekeningName": "Lulu"
+        },
+        {
+            "name": "Harg",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/d/d4/Monster-Harg-Water-Icon.png/revision/latest?cb=20230418060632",
+            "baseStars": 4,
+            "element": "water",
+            "type": "support",
+            "awekeningName": "Remy"
+        },
+        {
+            "name": "Epikion Priest",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/8/87/Monster-Epikion_Priest-Water-Icon.png/revision/latest?cb=20230410024737",
+            "baseStars": 4,
+            "element": "water",
+            "type": "support",
+            "awekeningName": "Rina"
+        },
+        {
+            "name": "Lich",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/e/e9/Monster-Lich-Water-Icon.png/revision/latest?cb=20230410024746",
+            "baseStars": 4,
+            "element": "water",
+            "type": "mage",
+            "awekeningName": "Rigel"
+        }
+    ],
+    "5": [
+        {
+            "name": "Polar Queen",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/b/b4/Monster-Polar_Queen-Water-Icon.png/revision/latest?cb=20230410024752",
+            "baseStars": 5,
+            "element": "water",
+            "type": "mage",
+            "awekeningName": "Alicia"
+        },
+        {
+            "name": "Beast Monk",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/d/d0/Monster-Beast_Monk-Water-Icon.png/revision/latest?cb=20230410024735",
+            "baseStars": 5,
+            "element": "water",
+            "type": "knight",
+            "awekeningName": "Chandra"
+        },
+        {
+            "name": "Magic Knight",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/0/04/Monster-Magic_Knight-Water-Icon.png/revision/latest?cb=20230410024747",
+            "baseStars": 5,
+            "element": "water",
+            "type": "warrior",
+            "awekeningName": "Lapis"
+        },
+        {
+            "name": "Mermaid",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/f3/Monster-Mermaid-Water-Icon.png/revision/latest?cb=20230418060635",
+            "baseStars": 5,
+            "element": "water",
+            "type": "support",
+            "awekeningName": "Tetra"
+        },
+        {
+            "name": "Valkyrja",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/b/b1/Monster-Valkyrja-Water-Icon.png/revision/latest?cb=20230418060638",
+            "baseStars": 5,
+            "element": "water",
+            "type": "knight",
+            "awekeningName": "Camilla"
+        },
+        {
+            "name": "Vampire",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/e/e9/Monster-Vampire-Water-Icon.png/revision/latest?cb=20230417052634",
+            "baseStars": 5,
+            "element": "water",
+            "type": "mage",
+            "awekeningName": "Liesel"
+        },
+        {
+            "name": "Desert Queen",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/d/dd/Monster-Desert_Queen-Water-Icon.png/revision/latest?cb=20230412214555",
+            "baseStars": 5,
+            "element": "water",
+            "type": "support",
+            "awekeningName": "Bastet"
+        },
+        {
+            "name": "Monkey King",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/fd/Monster-Monkey_King-Water-Icon.png/revision/latest?cb=20230410024749",
+            "baseStars": 5,
+            "element": "water",
+            "type": "warrior",
+            "awekeningName": "Shi Hou"
+        },
+        {
+            "name": "Sylph",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/79/Monster-Sylph-Water-Icon.png/revision/latest?cb=20230418060638",
+            "baseStars": 5,
+            "element": "water",
+            "type": "mage",
+            "awekeningName": "Tyron"
+        },
+        {
+            "name": "Archangel",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/71/Monster-Archangel-Water-Icon.png/revision/latest?cb=20230410024734",
+            "baseStars": 5,
+            "element": "water",
+            "type": "knight",
+            "awekeningName": "Ariel"
+        },
+        {
+            "name": "Occult Girl",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/f6/Monster-Occult_Girl-Water-Icon.png/revision/latest?cb=20230418060635",
+            "baseStars": 5,
+            "element": "water",
+            "type": "support",
+            "awekeningName": "Anavel"
+        },
+        {
+            "name": "Undine",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/2/26/Monster-Undine-Water-Icon.png/revision/latest?cb=20230418233226",
+            "baseStars": 5,
+            "element": "water",
+            "type": "support",
+            "awekeningName": "Mikene"
+        },
+        {
+            "name": "Panda Warrior",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/d/db/Monster-Panda_Warrior-Water-Icon.png/revision/latest?cb=20230418060636",
+            "baseStars": 5,
+            "element": "water",
+            "type": "warrior",
+            "awekeningName": "Mo Long"
+        },
+        {
+            "name": "Ifrit",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/fc/Monster-Ifrit-Water-Icon.png/revision/latest?cb=20230414214834",
+            "baseStars": 5,
+            "element": "water",
+            "type": "archer",
+            "awekeningName": "Theomars"
+        },
+        {
+            "name": "Jack-o'-lantern",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/2/26/Monster-Jack-o%27-lantern-Water-Icon.png/revision/latest?cb=20230410024745",
+            "baseStars": 5,
+            "element": "water",
+            "type": "support",
+            "awekeningName": "Chilling"
+        },
+        {
+            "name": "Joker",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/d/d9/Monster-Joker-Water-Icon.png/revision/latest?cb=20230410024746",
+            "baseStars": 5,
+            "element": "water",
+            "type": "mage",
+            "awekeningName": "Sian"
+        },
+        {
+            "name": "Kobold Bomber",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/0/0c/Monster-Kobold_Bomber-Water-Icon.png/revision/latest?cb=20230418060634",
+            "baseStars": 5,
+            "element": "water",
+            "type": "mage",
+            "awekeningName": "Malaka"
+        },
+        {
+            "name": "Chimera",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/0/0e/Monster-Chimera-Water-Icon.png/revision/latest?cb=20230410024736",
+            "baseStars": 5,
+            "element": "water",
+            "type": "knight",
+            "awekeningName": "Taor"
+        },
+        {
+            "name": "Sky Dancer",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/1a/Monster-Sky_Dancer-Water-Icon.png/revision/latest?cb=20230418060637",
+            "baseStars": 5,
+            "element": "water",
+            "type": "support",
+            "awekeningName": "Mihyang"
+        },
+        {
+            "name": "Pirate Captain",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/5f/Monster-Pirate_Captain-Water-Icon.png/revision/latest?cb=20230418060637",
+            "baseStars": 5,
+            "element": "water",
+            "type": "knight",
+            "awekeningName": "Galleon"
+        },
+        {
+            "name": "Raven",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/19/Monster-Raven-Water-Icon.png/revision/latest?cb=20230418060637",
+            "baseStars": 5,
+            "element": "water",
+            "type": "assassin",
+            "awekeningName": "Rondel"
+        },
+        {
+            "name": "Pioneer",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/13/Monster-Pioneer-Water-Icon.png/revision/latest?cb=20230418060636",
+            "baseStars": 5,
+            "element": "water",
+            "type": "support",
+            "awekeningName": "Woosa"
+        },
+        {
+            "name": "Beetle Knight",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/73/Monster-Beetle_Knight-Water-Icon.png/revision/latest?cb=20230410024736",
+            "baseStars": 5,
+            "element": "water",
+            "type": "knight",
+            "awekeningName": "Sir Neptune"
+        },
+        {
+            "name": "Hell Lady",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/9/93/Monster-Hell_Lady-Water-Icon.png/revision/latest?cb=20230410024742",
+            "baseStars": 5,
+            "element": "water",
+            "type": "assassin",
+            "awekeningName": "Beth"
+        },
+        {
+            "name": "Vampire Hunter",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/b/b0/Monster-Vampire_Hunter-Water-Icon.png/revision/latest?cb=20230417052634",
+            "baseStars": 5,
+            "element": "water",
+            "type": "archer",
+            "awekeningName": "Espino"
+        },
+        {
+            "name": "Oracle",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/fe/Monster-Oracle-Water-Icon.png/revision/latest?cb=20230418060636",
+            "baseStars": 5,
+            "element": "water",
+            "type": "support",
+            "awekeningName": "Praha"
+        },
+        {
+            "name": "Garou",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/4/4a/Monster-Garou-Water-Icon.png/revision/latest?cb=20230427220454",
+            "baseStars": 5,
+            "element": "water",
+            "type": "warrior",
+            "awekeningName": "Garou"
+        },
+        {
+            "name": "Silverfang",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/d/dd/Monster-Silverfang-Water-Icon.png/revision/latest?cb=20230427220454",
+            "baseStars": 5,
+            "element": "water",
+            "type": "assassin",
+            "awekeningName": "Silverfang"
+        },
+        {
+            "name": "Nine-tailed Fox",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/b/bd/Monster-Nine-tailed_Fox-Water-Icon.png/revision/latest?cb=20230518232909",
+            "baseStars": 5,
+            "element": "water",
+            "type": "support",
+            "awekeningName": "Soha"
+        },
+        {
+            "name": "Narin Ha",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/5e/Monster-Narin_Ha-Water-Icon.png/revision/latest?cb=20230417052633",
+            "baseStars": 5,
+            "element": "water",
+            "type": "mage",
+            "awekeningName": "Narin Ha"
+        }
+    ]
+}

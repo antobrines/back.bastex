@@ -1,0 +1,660 @@
+{
+    "1": [
+        {
+            "name": "Forest Keeper",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/4/48/Monster-Forest_Keeper-Wind-Icon.png/revision/latest?cb=20230410024738",
+            "baseStars": 1,
+            "element": "wind",
+            "type": "archer",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Horned Frog",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/c/c1/Monster-Horned_Frog-Wind-Icon.png/revision/latest?cb=20230410024744",
+            "baseStars": 1,
+            "element": "wind",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Mushroom",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/d/d1/Monster-Mushroom-Wind-Icon.png/revision/latest?cb=20230410024751",
+            "baseStars": 1,
+            "element": "wind",
+            "type": "archer",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Mimick",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/4/47/Monster-Mimick-Wind-Icon.png/revision/latest?cb=20230410024749",
+            "baseStars": 1,
+            "element": "wind",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Slime",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/55/Monster-Slime-Wind-Icon.png/revision/latest?cb=20230410024755",
+            "baseStars": 1,
+            "element": "wind",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Sandman",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/6/6a/Monster-Sandman-Wind-Icon.png/revision/latest?cb=20230410024754",
+            "baseStars": 1,
+            "element": "wind",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Ghost",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/b/be/Monster-Ghost-Wind-Icon.png/revision/latest?cb=20230410024739",
+            "baseStars": 1,
+            "element": "wind",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Low Elemental",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/d/d2/Monster-Low_Elemental-Wind-Icon.png/revision/latest?cb=20230410024747",
+            "baseStars": 1,
+            "element": "wind",
+            "type": "assassin",
+            "awekeningName": "none"
+        }
+    ],
+    "2": [
+        {
+            "name": "Maned Boar",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/2/24/Monster-Maned_Boar-Wind-Icon.png/revision/latest?cb=20230410024748",
+            "baseStars": 2,
+            "element": "wind",
+            "type": "knight",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Monster Flower",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/1d/Monster-Monster_Flower-Wind-Icon.png/revision/latest?cb=20230410024750",
+            "baseStars": 2,
+            "element": "wind",
+            "type": "archer",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Skull Soldier",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/11/Monster-Skull_Soldier-Wind-Icon.png/revision/latest?cb=20230410024755",
+            "baseStars": 2,
+            "element": "wind",
+            "type": "warrior",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Mischievous Bat",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/30/Monster-Mischievous_Bat-Wind-Icon.png/revision/latest?cb=20230410024749",
+            "baseStars": 2,
+            "element": "wind",
+            "type": "warrior",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Battle Scorpion",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/38/Monster-Battle_Scorpion-Wind-Icon.png/revision/latest?cb=20230410024735",
+            "baseStars": 2,
+            "element": "wind",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Surprise Box",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/71/Monster-Surprise_Box-Wind-Icon.png/revision/latest?cb=20230410024756",
+            "baseStars": 2,
+            "element": "wind",
+            "type": "warrior",
+            "awekeningName": "none"
+        }
+    ],
+    "3": [
+        {
+            "name": "Fairy",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/6/63/Monster-Fairy-Wind-Icon.png/revision/latest?cb=20230410024738",
+            "baseStars": 3,
+            "element": "wind",
+            "type": "support",
+            "awekeningName": "Aeilene"
+        },
+        {
+            "name": "Living Armor",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/79/Monster-Living_Armor-Wind-Icon.png/revision/latest?cb=20230410024746",
+            "baseStars": 3,
+            "element": "wind",
+            "type": "warrior",
+            "awekeningName": "Copper"
+        },
+        {
+            "name": "Golem",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/33/Monster-Golem-Wind-Icon.png/revision/latest?cb=20230410024740",
+            "baseStars": 3,
+            "element": "wind",
+            "type": "knight",
+            "awekeningName": "Ragion"
+        },
+        {
+            "name": "Grim Reaper",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/a/a1/Monster-Grim_Reaper-Wind-Icon.png/revision/latest?cb=20230410024741",
+            "baseStars": 3,
+            "element": "wind",
+            "type": "warrior",
+            "awekeningName": "Hiva"
+        },
+        {
+            "name": "Serpent",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/9/97/Monster-Serpent-Wind-Icon.png/revision/latest?cb=20230410024754",
+            "baseStars": 3,
+            "element": "wind",
+            "type": "warrior",
+            "awekeningName": "Ermeda"
+        },
+        {
+            "name": "Frankenstein",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/8/8b/Monster-Frankenstein-Wind-Icon.png/revision/latest?cb=20230410024739",
+            "baseStars": 3,
+            "element": "wind",
+            "type": "knight",
+            "awekeningName": "Crane"
+        },
+        {
+            "name": "Salamander",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/15/Monster-Salamander-Wind-Icon.png/revision/latest?cb=20230410024753",
+            "baseStars": 3,
+            "element": "wind",
+            "type": "knight",
+            "awekeningName": "Lukan"
+        },
+        {
+            "name": "Harpy",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/8/85/Monster-Harpy-Wind-Icon.png/revision/latest?cb=20230410024742",
+            "baseStars": 3,
+            "element": "wind",
+            "type": "warrior",
+            "awekeningName": "Prilea"
+        },
+        {
+            "name": "Charger Shark",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/7a/Monster-Charger_Shark-Wind-Icon.png/revision/latest?cb=20230410024736",
+            "baseStars": 3,
+            "element": "wind",
+            "type": "assassin",
+            "awekeningName": "Zephicus"
+        },
+        {
+            "name": "Mummy",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/6/6b/Monster-Mummy-Wind-Icon.png/revision/latest?cb=20230410024750",
+            "baseStars": 3,
+            "element": "wind",
+            "type": "warrior",
+            "awekeningName": "Namib"
+        },
+        {
+            "name": "Imp",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/d/d5/Monster-Imp-Wind-Icon.png/revision/latest?cb=20230410024745",
+            "baseStars": 3,
+            "element": "wind",
+            "type": "assassin",
+            "awekeningName": "Ralph"
+        },
+        {
+            "name": "Pixie",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/4/43/Monster-Pixie-Wind-Icon.png/revision/latest?cb=20230418233226",
+            "baseStars": 3,
+            "element": "wind",
+            "type": "support",
+            "awekeningName": "Shannon"
+        },
+        {
+            "name": "Hellhound",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/e/e2/Monster-Hellhound-Wind-Icon.png/revision/latest?cb=20230410024743",
+            "baseStars": 3,
+            "element": "wind",
+            "type": "assassin",
+            "awekeningName": "Gamir"
+        },
+        {
+            "name": "Garuda",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/5d/Monster-Garuda-Wind-Icon.png/revision/latest?cb=20230410024739",
+            "baseStars": 3,
+            "element": "wind",
+            "type": "assassin",
+            "awekeningName": "Lindermen"
+        },
+        {
+            "name": "Warbear",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/f5/Monster-Warbear-Wind-Icon.png/revision/latest?cb=20230410024757",
+            "baseStars": 3,
+            "element": "wind",
+            "type": "warrior",
+            "awekeningName": "Ramagos"
+        },
+        {
+            "name": "Elemental",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/a/ac/Monster-Elemental-Wind-Icon.png/revision/latest?cb=20230410024737",
+            "baseStars": 3,
+            "element": "wind",
+            "type": "assassin",
+            "awekeningName": "Taharus"
+        },
+        {
+            "name": "Yeti",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/a/a7/Monster-Yeti-Wind-Icon.png/revision/latest?cb=20230410024733",
+            "baseStars": 3,
+            "element": "wind",
+            "type": "knight",
+            "awekeningName": "Rakaja"
+        },
+        {
+            "name": "Gore",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/13/Monster-Gore-Wind-Icon.png/revision/latest?cb=20230410024740",
+            "baseStars": 3,
+            "element": "wind",
+            "type": "warrior",
+            "awekeningName": "Impano"
+        }
+    ],
+    "4": [
+        {
+            "name": "Penguin Knight",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/ff/Monster-Penguin_Knight-Wind-Icon.png/revision/latest?cb=20230418060636",
+            "baseStars": 4,
+            "element": "wind",
+            "type": "knight",
+            "awekeningName": "Mav"
+        },
+        {
+            "name": "Vagabond",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/4/43/Monster-Vagabond-Wind-Icon.png/revision/latest?cb=20230410024756",
+            "baseStars": 4,
+            "element": "wind",
+            "type": "knight",
+            "awekeningName": "Roid"
+        },
+        {
+            "name": "Mystic Witch",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/0/06/Monster-Mystic_Witch-Wind-Icon.png/revision/latest?cb=20230418060635",
+            "baseStars": 4,
+            "element": "wind",
+            "type": "mage",
+            "awekeningName": "Silia"
+        },
+        {
+            "name": "High Elemental",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/17/Monster-High_Elemental-Wind-Icon.png/revision/latest?cb=20230410024743",
+            "baseStars": 4,
+            "element": "wind",
+            "type": "archer",
+            "awekeningName": "Moria"
+        },
+        {
+            "name": "Griffon",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/4/47/Monster-Griffon-Wind-Icon.png/revision/latest?cb=20230418060632",
+            "baseStars": 4,
+            "element": "wind",
+            "type": "knight",
+            "awekeningName": "Bernard"
+        },
+        {
+            "name": "Inugami",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/9/9b/Monster-Inugami-Wind-Icon.png/revision/latest?cb=20230410024745",
+            "baseStars": 4,
+            "element": "wind",
+            "type": "assassin",
+            "awekeningName": "Ramahan"
+        },
+        {
+            "name": "Battle Mammoth",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/2/27/Monster-Battle_Mammoth-Wind-Icon.png/revision/latest?cb=20230410024735",
+            "baseStars": 4,
+            "element": "wind",
+            "type": "knight",
+            "awekeningName": "Olivine"
+        },
+        {
+            "name": "Lizardman",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/34/Monster-Lizardman-Wind-Icon.png/revision/latest?cb=20230410024747",
+            "baseStars": 4,
+            "element": "wind",
+            "type": "warrior",
+            "awekeningName": "Velfinodon"
+        },
+        {
+            "name": "Martial Cat",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/fb/Monster-Martial_Cat-Wind-Icon.png/revision/latest?cb=20230420202439",
+            "baseStars": 4,
+            "element": "wind",
+            "type": "assassin",
+            "awekeningName": "Naomi"
+        },
+        {
+            "name": "Amazon",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/51/Monster-Amazon-Wind-Icon.png/revision/latest?cb=20230410024734",
+            "baseStars": 4,
+            "element": "wind",
+            "type": "archer",
+            "awekeningName": "Hina"
+        },
+        {
+            "name": "Werewolf",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/4/47/Monster-Werewolf-Wind-Icon.png/revision/latest?cb=20230410024757",
+            "baseStars": 4,
+            "element": "wind",
+            "type": "warrior",
+            "awekeningName": "Shakan"
+        },
+        {
+            "name": "Inferno",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/6/62/Monster-Inferno-Wind-Icon.png/revision/latest?cb=20230410024745",
+            "baseStars": 4,
+            "element": "wind",
+            "type": "mage",
+            "awekeningName": "Anduril"
+        },
+        {
+            "name": "Cow Girl",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/14/Monster-Cow_Girl-Wind-Icon.png/revision/latest?cb=20230418060631",
+            "baseStars": 4,
+            "element": "wind",
+            "type": "archer",
+            "awekeningName": "Hannah"
+        },
+        {
+            "name": "Imp Champion",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/0/00/Monster-Imp_Champion-Wind-Icon.png/revision/latest?cb=20230410024744",
+            "baseStars": 4,
+            "element": "wind",
+            "type": "assassin",
+            "awekeningName": "Figma"
+        },
+        {
+            "name": "Harpu",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/7b/Monster-Harpu-Wind-Icon.png/revision/latest?cb=20230410024742",
+            "baseStars": 4,
+            "element": "wind",
+            "type": "warrior",
+            "awekeningName": "Seal"
+        },
+        {
+            "name": "Howl",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/39/Monster-Howl-Wind-Icon.png/revision/latest?cb=20230410024744",
+            "baseStars": 4,
+            "element": "wind",
+            "type": "support",
+            "awekeningName": "Chichi"
+        },
+        {
+            "name": "Harg",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/4/48/Monster-Harg-Wind-Icon.png/revision/latest?cb=20230410024741",
+            "baseStars": 4,
+            "element": "wind",
+            "type": "support",
+            "awekeningName": "Raviti"
+        },
+        {
+            "name": "Epikion Priest",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/3b/Monster-Epikion_Priest-Wind-Icon.png/revision/latest?cb=20230418233225",
+            "baseStars": 4,
+            "element": "wind",
+            "type": "support",
+            "awekeningName": "Michelle"
+        },
+        {
+            "name": "Lich",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/f9/Monster-Lich-Wind-Icon.png/revision/latest?cb=20230410024746",
+            "baseStars": 4,
+            "element": "wind",
+            "type": "mage",
+            "awekeningName": "Fuco"
+        }
+    ],
+    "5": [
+        {
+            "name": "Polar Queen",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/8/80/Monster-Polar_Queen-Wind-Icon.png/revision/latest?cb=20230410024752",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "support",
+            "awekeningName": "Tiana"
+        },
+        {
+            "name": "Beast Monk",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/8/84/Monster-Beast_Monk-Wind-Icon.png/revision/latest?cb=20230410024735",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "knight",
+            "awekeningName": "Ritesh"
+        },
+        {
+            "name": "Magic Knight",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/e/e8/Monster-Magic_Knight-Wind-Icon.png/revision/latest?cb=20230410024748",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "assassin",
+            "awekeningName": "Lupinus"
+        },
+        {
+            "name": "Mermaid",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/c/ca/Monster-Mermaid-Wind-Icon.png/revision/latest?cb=20230418060635",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "support",
+            "awekeningName": "Cichlid"
+        },
+        {
+            "name": "Valkyrja",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/c/cd/Monster-Valkyrja-Wind-Icon.png/revision/latest?cb=20230410024756",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "assassin",
+            "awekeningName": "Katarina"
+        },
+        {
+            "name": "Vampire",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/79/Monster-Vampire-Wind-Icon.png/revision/latest?cb=20230417052634",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "archer",
+            "awekeningName": "Argen"
+        },
+        {
+            "name": "Desert Queen",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/a/a6/Monster-Desert_Queen-Wind-Icon.png/revision/latest?cb=20230417052633",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "support",
+            "awekeningName": "Hathor"
+        },
+        {
+            "name": "Monkey King",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/d/d9/Monster-Monkey_King-Wind-Icon.png/revision/latest?cb=20230418060635",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "warrior",
+            "awekeningName": "Xing Zhe"
+        },
+        {
+            "name": "Sylph",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/4/46/Monster-Sylph-Wind-Icon.png/revision/latest?cb=20230410024756",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "mage",
+            "awekeningName": "Shimitae"
+        },
+        {
+            "name": "Archangel",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/72/Monster-Archangel-Wind-Icon.png/revision/latest?cb=20230412214555",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "knight",
+            "awekeningName": "Eladriel"
+        },
+        {
+            "name": "Occult Girl",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/6/6d/Monster-Occult_Girl-Wind-Icon.png/revision/latest?cb=20230410024751",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "mage",
+            "awekeningName": "Charlotte"
+        },
+        {
+            "name": "Undine",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/70/Monster-Undine-Wind-Icon.png/revision/latest?cb=20230410024756",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "support",
+            "awekeningName": "Delphoi"
+        },
+        {
+            "name": "Panda Warrior",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/6/68/Monster-Panda_Warrior-Wind-Icon.png/revision/latest?cb=20230418060636",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "warrior",
+            "awekeningName": "Feng Yan"
+        },
+        {
+            "name": "Ifrit",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/4/43/Monster-Ifrit-Wind-Icon.png/revision/latest?cb=20230414214834",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "warrior",
+            "awekeningName": "Akhamamir"
+        },
+        {
+            "name": "Jack-o'-lantern",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/f0/Monster-Jack-o%27-lantern-Wind-Icon.png/revision/latest?cb=20230418060633",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "support",
+            "awekeningName": "Windy"
+        },
+        {
+            "name": "Joker",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/17/Monster-Joker-Wind-Icon.png/revision/latest?cb=20230418060633",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "mage",
+            "awekeningName": "Lushen"
+        },
+        {
+            "name": "Kobold Bomber",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/6/6f/Monster-Kobold_Bomber-Wind-Icon.png/revision/latest?cb=20230418060634",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "mage",
+            "awekeningName": "Taurus"
+        },
+        {
+            "name": "Chimera",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/7e/Monster-Chimera-Wind-Icon.png/revision/latest?cb=20230418060631",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "knight",
+            "awekeningName": "Lagmaron"
+        },
+        {
+            "name": "Sky Dancer",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/4/47/Monster-Sky_Dancer-Wind-Icon.png/revision/latest?cb=20230418060637",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "support",
+            "awekeningName": "Chasun"
+        },
+        {
+            "name": "Pirate Captain",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/4/43/Monster-Pirate_Captain-Wind-Icon.png/revision/latest?cb=20230418060637",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "assassin",
+            "awekeningName": "Barque"
+        },
+        {
+            "name": "Raven",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/8/84/Monster-Raven-Wind-Icon.png/revision/latest?cb=20230410024753",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "assassin",
+            "awekeningName": "Khukuri"
+        },
+        {
+            "name": "Pioneer",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/55/Monster-Pioneer-Wind-Icon.png/revision/latest?cb=20230410024752",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "mage",
+            "awekeningName": "Pungbaek"
+        },
+        {
+            "name": "Beetle Knight",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/13/Monster-Beetle_Knight-Wind-Icon.png/revision/latest?cb=20230410024736",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "knight",
+            "awekeningName": "Sir Acteon"
+        },
+        {
+            "name": "Hell Lady",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/33/Monster-Hell_Lady-Wind-Icon.png/revision/latest?cb=20230410024742",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "assassin",
+            "awekeningName": "Ethna"
+        },
+        {
+            "name": "Vampire Hunter",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/0/0b/Monster-Vampire_Hunter-Wind-Icon.png/revision/latest?cb=20230410024757",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "archer",
+            "awekeningName": "Mostaza"
+        },
+        {
+            "name": "Oracle",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/58/Monster-Oracle-Wind-Icon.png/revision/latest?cb=20230418060636",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "mage",
+            "awekeningName": "Seara"
+        },
+        {
+            "name": "Terrible Tornado",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/56/Monster-Terrible_Tornado-Wind-Icon.png/revision/latest?cb=20230427220454",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "mage",
+            "awekeningName": "Terrible Tornado"
+        },
+        {
+            "name": "Hellish Blizzard",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/f9/Monster-Hellish_Blizzard-Wind-Icon.png/revision/latest?cb=20230427220454",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "mage",
+            "awekeningName": "Hellish Blizzard"
+        },
+        {
+            "name": "Nine-tailed Fox",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/8/87/Monster-Nine-tailed_Fox-Wind-Icon.png/revision/latest?cb=20230518232908",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "mage",
+            "awekeningName": "Arang"
+        },
+        {
+            "name": "Mi Ryeong",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/5e/Monster-Mi_Ryeong-Wind-Icon.png/revision/latest?cb=20230417052633",
+            "baseStars": 5,
+            "element": "wind",
+            "type": "warrior",
+            "awekeningName": "Mi Ryeong"
+        }
+    ]
+}

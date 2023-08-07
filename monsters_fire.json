@@ -1,0 +1,660 @@
+{
+    "1": [
+        {
+            "name": "Forest Keeper",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/9/9a/Monster-Forest_Keeper-Fire-Icon.png/revision/latest?cb=20230410024738",
+            "baseStars": 1,
+            "element": "fire",
+            "type": "archer",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Horned Frog",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/a/a2/Monster-Horned_Frog-Fire-Icon.png/revision/latest?cb=20230410024743",
+            "baseStars": 1,
+            "element": "fire",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Mushroom",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/0/03/Monster-Mushroom-Fire-Icon.png/revision/latest?cb=20230410024751",
+            "baseStars": 1,
+            "element": "fire",
+            "type": "archer",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Mimick",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/39/Monster-Mimick-Fire-Icon.png/revision/latest?cb=20230410024748",
+            "baseStars": 1,
+            "element": "fire",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Slime",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/b/bd/Monster-Slime-Fire-Icon.png/revision/latest?cb=20230410024755",
+            "baseStars": 1,
+            "element": "fire",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Sandman",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/a/a2/Monster-Sandman-Fire-Icon.png/revision/latest?cb=20230410024753",
+            "baseStars": 1,
+            "element": "fire",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Ghost",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/e/e4/Monster-Ghost-Fire-Icon.png/revision/latest?cb=20230410024739",
+            "baseStars": 1,
+            "element": "fire",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Low Elemental",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/a/ab/Monster-Low_Elemental-Fire-Icon.png/revision/latest?cb=20230410024747",
+            "baseStars": 1,
+            "element": "fire",
+            "type": "assassin",
+            "awekeningName": "none"
+        }
+    ],
+    "2": [
+        {
+            "name": "Maned Boar",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/70/Monster-Maned_Boar-Fire-Icon.png/revision/latest?cb=20230410024748",
+            "baseStars": 2,
+            "element": "fire",
+            "type": "knight",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Monster Flower",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/c/c8/Monster-Monster_Flower-Fire-Icon.png/revision/latest?cb=20230410024750",
+            "baseStars": 2,
+            "element": "fire",
+            "type": "archer",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Skull Soldier",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/6/63/Monster-Skull_Soldier-Fire-Icon.png/revision/latest?cb=20230410024754",
+            "baseStars": 2,
+            "element": "fire",
+            "type": "warrior",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Mischievous Bat",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/e/e8/Monster-Mischievous_Bat-Fire-Icon.png/revision/latest?cb=20230410024749",
+            "baseStars": 2,
+            "element": "fire",
+            "type": "warrior",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Battle Scorpion",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/13/Monster-Battle_Scorpion-Fire-Icon.png/revision/latest?cb=20230410024735",
+            "baseStars": 2,
+            "element": "fire",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Surprise Box",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/34/Monster-Surprise_Box-Fire-Icon.png/revision/latest?cb=20230410024755",
+            "baseStars": 2,
+            "element": "fire",
+            "type": "warrior",
+            "awekeningName": "none"
+        }
+    ],
+    "3": [
+        {
+            "name": "Fairy",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/0/09/Monster-Fairy-Fire-Icon.png/revision/latest?cb=20230418233225",
+            "baseStars": 3,
+            "element": "fire",
+            "type": "mage",
+            "awekeningName": "Iselia"
+        },
+        {
+            "name": "Living Armor",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/72/Monster-Living_Armor-Fire-Icon.png/revision/latest?cb=20230410024746",
+            "baseStars": 3,
+            "element": "fire",
+            "type": "assassin",
+            "awekeningName": "Iron"
+        },
+        {
+            "name": "Golem",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/52/Monster-Golem-Fire-Icon.png/revision/latest?cb=20230410024740",
+            "baseStars": 3,
+            "element": "fire",
+            "type": "knight",
+            "awekeningName": "Kugo"
+        },
+        {
+            "name": "Grim Reaper",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/2/22/Monster-Grim_Reaper-Fire-Icon.png/revision/latest?cb=20230410024741",
+            "baseStars": 3,
+            "element": "fire",
+            "type": "warrior",
+            "awekeningName": "Sath"
+        },
+        {
+            "name": "Serpent",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/56/Monster-Serpent-Fire-Icon.png/revision/latest?cb=20230410024754",
+            "baseStars": 3,
+            "element": "fire",
+            "type": "knight",
+            "awekeningName": "Fao"
+        },
+        {
+            "name": "Frankenstein",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/fb/Monster-Frankenstein-Fire-Icon.png/revision/latest?cb=20230418233225",
+            "baseStars": 3,
+            "element": "fire",
+            "type": "warrior",
+            "awekeningName": "Bulldozer"
+        },
+        {
+            "name": "Salamander",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/9/9f/Monster-Salamander-Fire-Icon.png/revision/latest?cb=20230410024753",
+            "baseStars": 3,
+            "element": "fire",
+            "type": "warrior",
+            "awekeningName": "Krakdon"
+        },
+        {
+            "name": "Harpy",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/8/8a/Monster-Harpy-Fire-Icon.png/revision/latest?cb=20230410024742",
+            "baseStars": 3,
+            "element": "fire",
+            "type": "warrior",
+            "awekeningName": "Lucasha"
+        },
+        {
+            "name": "Charger Shark",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/39/Monster-Charger_Shark-Fire-Icon.png/revision/latest?cb=20230410024736",
+            "baseStars": 3,
+            "element": "fire",
+            "type": "warrior",
+            "awekeningName": "Ignicus"
+        },
+        {
+            "name": "Mummy",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/9/96/Monster-Mummy-Fire-Icon.png/revision/latest?cb=20230410024750",
+            "baseStars": 3,
+            "element": "fire",
+            "type": "warrior",
+            "awekeningName": "Sonora"
+        },
+        {
+            "name": "Imp",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/a/ae/Monster-Imp-Fire-Icon.png/revision/latest?cb=20230410024744",
+            "baseStars": 3,
+            "element": "fire",
+            "type": "assassin",
+            "awekeningName": "Cogma"
+        },
+        {
+            "name": "Pixie",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/9/99/Monster-Pixie-Fire-Icon.png/revision/latest?cb=20230418233226",
+            "baseStars": 3,
+            "element": "fire",
+            "type": "mage",
+            "awekeningName": "Tatu"
+        },
+        {
+            "name": "Hellhound",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/9/96/Monster-Hellhound-Fire-Icon.png/revision/latest?cb=20230410024742",
+            "baseStars": 3,
+            "element": "fire",
+            "type": "assassin",
+            "awekeningName": "Sieq"
+        },
+        {
+            "name": "Garuda",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/a/ae/Monster-Garuda-Fire-Icon.png/revision/latest?cb=20230410024739",
+            "baseStars": 3,
+            "element": "fire",
+            "type": "knight",
+            "awekeningName": "Cahule"
+        },
+        {
+            "name": "Warbear",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/c/c5/Monster-Warbear-Fire-Icon.png/revision/latest?cb=20230410024757",
+            "baseStars": 3,
+            "element": "fire",
+            "type": "knight",
+            "awekeningName": "Ursha"
+        },
+        {
+            "name": "Elemental",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/7e/Monster-Elemental-Fire-Icon.png/revision/latest?cb=20230410024737",
+            "baseStars": 3,
+            "element": "fire",
+            "type": "assassin",
+            "awekeningName": "Bremis"
+        },
+        {
+            "name": "Yeti",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/8/88/Monster-Yeti-Fire-Icon.png/revision/latest?cb=20230410024758",
+            "baseStars": 3,
+            "element": "fire",
+            "type": "assassin",
+            "awekeningName": "Tantra"
+        },
+        {
+            "name": "Gore",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/6/63/Monster-Gore-Fire-Icon.png/revision/latest?cb=20230410024740",
+            "baseStars": 3,
+            "element": "fire",
+            "type": "warrior",
+            "awekeningName": "Dianne"
+        }
+    ],
+    "4": [
+        {
+            "name": "Penguin Knight",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/56/Monster-Penguin_Knight-Fire-Icon.png/revision/latest?cb=20230410024751",
+            "baseStars": 4,
+            "element": "fire",
+            "type": "knight",
+            "awekeningName": "Naki"
+        },
+        {
+            "name": "Vagabond",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/6/6a/Monster-Vagabond-Fire-Icon.png/revision/latest?cb=20230410024756",
+            "baseStars": 4,
+            "element": "fire",
+            "type": "knight",
+            "awekeningName": "Kai'en"
+        },
+        {
+            "name": "Mystic Witch",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/18/Monster-Mystic_Witch-Fire-Icon.png/revision/latest?cb=20230410024751",
+            "baseStars": 4,
+            "element": "fire",
+            "type": "support",
+            "awekeningName": "Rebecca"
+        },
+        {
+            "name": "High Elemental",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/4/4c/Monster-High_Elemental-Fire-Icon.png/revision/latest?cb=20230410024743",
+            "baseStars": 4,
+            "element": "fire",
+            "type": "archer",
+            "awekeningName": "Kahli"
+        },
+        {
+            "name": "Griffon",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/2/2e/Monster-Griffon-Fire-Icon.png/revision/latest?cb=20230410024741",
+            "baseStars": 4,
+            "element": "fire",
+            "type": "warrior",
+            "awekeningName": "Spectra"
+        },
+        {
+            "name": "Inugami",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/2/21/Monster-Inugami-Fire-Icon.png/revision/latest?cb=20230410024745",
+            "baseStars": 4,
+            "element": "fire",
+            "type": "assassin",
+            "awekeningName": "Raoq"
+        },
+        {
+            "name": "Battle Mammoth",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/7f/Monster-Battle_Mammoth-Fire-Icon.png/revision/latest?cb=20230410024735",
+            "baseStars": 4,
+            "element": "fire",
+            "type": "knight",
+            "awekeningName": "Granite"
+        },
+        {
+            "name": "Lizardman",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/b/b4/Monster-Lizardman-Fire-Icon.png/revision/latest?cb=20230410024746",
+            "baseStars": 4,
+            "element": "fire",
+            "type": "warrior",
+            "awekeningName": "Igmanodon"
+        },
+        {
+            "name": "Martial Cat",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/79/Monster-Martial_Cat-Fire-Icon.png/revision/latest?cb=20230410024748",
+            "baseStars": 4,
+            "element": "fire",
+            "type": "assassin",
+            "awekeningName": "Mei"
+        },
+        {
+            "name": "Amazon",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/b/ba/Monster-Amazon-Fire-Icon.png/revision/latest?cb=20230410024734",
+            "baseStars": 4,
+            "element": "fire",
+            "type": "archer",
+            "awekeningName": "Ceres"
+        },
+        {
+            "name": "Werewolf",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/8/83/Monster-Werewolf-Fire-Icon.png/revision/latest?cb=20230410024757",
+            "baseStars": 4,
+            "element": "fire",
+            "type": "warrior",
+            "awekeningName": "Garoche"
+        },
+        {
+            "name": "Inferno",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/b/b7/Monster-Inferno-Fire-Icon.png/revision/latest?cb=20230410024745",
+            "baseStars": 4,
+            "element": "fire",
+            "type": "mage",
+            "awekeningName": "Tagaros"
+        },
+        {
+            "name": "Cow Girl",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/e/e1/Monster-Cow_Girl-Fire-Icon.png/revision/latest?cb=20230410024737",
+            "baseStars": 4,
+            "element": "fire",
+            "type": "mage",
+            "awekeningName": "Anne"
+        },
+        {
+            "name": "Imp Champion",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/c/c0/Monster-Imp_Champion-Fire-Icon.png/revision/latest?cb=20230410024744",
+            "baseStars": 4,
+            "element": "fire",
+            "type": "warrior",
+            "awekeningName": "Pyro"
+        },
+        {
+            "name": "Harpu",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/9/93/Monster-Harpu-Fire-Icon.png/revision/latest?cb=20230410024741",
+            "baseStars": 4,
+            "element": "fire",
+            "type": "knight",
+            "awekeningName": "Colleen"
+        },
+        {
+            "name": "Howl",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/f7/Monster-Howl-Fire-Icon.png/revision/latest?cb=20230410024744",
+            "baseStars": 4,
+            "element": "fire",
+            "type": "support",
+            "awekeningName": "Lala"
+        },
+        {
+            "name": "Harg",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/d/dc/Monster-Harg-Fire-Icon.png/revision/latest?cb=20230410024741",
+            "baseStars": 4,
+            "element": "fire",
+            "type": "support",
+            "awekeningName": "Racuni"
+        },
+        {
+            "name": "Epikion Priest",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/f9/Monster-Epikion_Priest-Fire-Icon.png/revision/latest?cb=20230418060632",
+            "baseStars": 4,
+            "element": "fire",
+            "type": "support",
+            "awekeningName": "Chloe"
+        },
+        {
+            "name": "Lich",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/a/af/Monster-Lich-Fire-Icon.png/revision/latest?cb=20230418060634",
+            "baseStars": 4,
+            "element": "fire",
+            "type": "mage",
+            "awekeningName": "Antares"
+        }
+    ],
+    "5": [
+        {
+            "name": "Polar Queen",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/6/63/Monster-Polar_Queen-Fire-Icon.png/revision/latest?cb=20230412214555",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "mage",
+            "awekeningName": "Brandia"
+        },
+        {
+            "name": "Beast Monk",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/b/b4/Monster-Beast_Monk-Fire-Icon.png/revision/latest?cb=20230410024735",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "knight",
+            "awekeningName": "Kumar"
+        },
+        {
+            "name": "Magic Knight",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/54/Monster-Magic_Knight-Fire-Icon.png/revision/latest?cb=20230410024747",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "assassin",
+            "awekeningName": "Astar"
+        },
+        {
+            "name": "Mermaid",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/5f/Monster-Mermaid-Fire-Icon.png/revision/latest?cb=20230418060635",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "support",
+            "awekeningName": "Platy"
+        },
+        {
+            "name": "Valkyrja",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/57/Monster-Valkyrja-Fire-Icon.png/revision/latest?cb=20230418060638",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "knight",
+            "awekeningName": "Vanessa"
+        },
+        {
+            "name": "Vampire",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/34/Monster-Vampire-Fire-Icon.png/revision/latest?cb=20230417052634",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "support",
+            "awekeningName": "Verdehile"
+        },
+        {
+            "name": "Desert Queen",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/0/00/Monster-Desert_Queen-Fire-Icon.png/revision/latest?cb=20230417052633",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "mage",
+            "awekeningName": "Sekhmet"
+        },
+        {
+            "name": "Monkey King",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/9/93/Monster-Monkey_King-Fire-Icon.png/revision/latest?cb=20230418060635",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "warrior",
+            "awekeningName": "Mei Hou Wang"
+        },
+        {
+            "name": "Sylph",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/e/e5/Monster-Sylph-Fire-Icon.png/revision/latest?cb=20230418060637",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "mage",
+            "awekeningName": "Barreta"
+        },
+        {
+            "name": "Archangel",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/8/8c/Monster-Archangel-Fire-Icon.png/revision/latest?cb=20230410024734",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "knight",
+            "awekeningName": "Velajuel"
+        },
+        {
+            "name": "Occult Girl",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/30/Monster-Occult_Girl-Fire-Icon.png/revision/latest?cb=20230410024751",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "mage",
+            "awekeningName": "Rica"
+        },
+        {
+            "name": "Undine",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/56/Monster-Undine-Fire-Icon.png/revision/latest?cb=20230418060638",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "support",
+            "awekeningName": "Atenai"
+        },
+        {
+            "name": "Panda Warrior",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/e/e3/Monster-Panda_Warrior-Fire-Icon.png/revision/latest?cb=20230410024751",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "knight",
+            "awekeningName": "Xiong Fei"
+        },
+        {
+            "name": "Ifrit",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/c/c2/Monster-Ifrit-Fire-Icon.png/revision/latest?cb=20230414214834",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "archer",
+            "awekeningName": "Tesarian"
+        },
+        {
+            "name": "Jack-o'-lantern",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/8/8a/Monster-Jack-o%27-lantern-Fire-Icon.png/revision/latest?cb=20230418060633",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "mage",
+            "awekeningName": "Smokey"
+        },
+        {
+            "name": "Joker",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/6/66/Monster-Joker-Fire-Icon.png/revision/latest?cb=20230410024746",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "mage",
+            "awekeningName": "Jojo"
+        },
+        {
+            "name": "Kobold Bomber",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/8/8f/Monster-Kobold_Bomber-Fire-Icon.png/revision/latest?cb=20230418060634",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "mage",
+            "awekeningName": "Zibrolta"
+        },
+        {
+            "name": "Chimera",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/37/Monster-Chimera-Fire-Icon.png/revision/latest?cb=20230410024736",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "knight",
+            "awekeningName": "Rakan"
+        },
+        {
+            "name": "Sky Dancer",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/3e/Monster-Sky_Dancer-Fire-Icon.png/revision/latest?cb=20230418060637",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "support",
+            "awekeningName": "Hwahee"
+        },
+        {
+            "name": "Pirate Captain",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/9/95/Monster-Pirate_Captain-Fire-Icon.png/revision/latest?cb=20230410024752",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "warrior",
+            "awekeningName": "Carrack"
+        },
+        {
+            "name": "Raven",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/52/Monster-Raven-Fire-Icon.png/revision/latest?cb=20230410024752",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "assassin",
+            "awekeningName": "Karambit"
+        },
+        {
+            "name": "Pioneer",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/0/02/Monster-Pioneer-Fire-Icon.png/revision/latest?cb=20230410024752",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "mage",
+            "awekeningName": "Chiwu"
+        },
+        {
+            "name": "Beetle Knight",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/6/6e/Monster-Beetle_Knight-Fire-Icon.png/revision/latest?cb=20230410024736",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "knight",
+            "awekeningName": "Sir Hercules"
+        },
+        {
+            "name": "Hell Lady",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/0/0a/Monster-Hell_Lady-Fire-Icon.png/revision/latest?cb=20230418060632",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "warrior",
+            "awekeningName": "Raki"
+        },
+        {
+            "name": "Vampire Hunter",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/d/d9/Monster-Vampire_Hunter-Fire-Icon.png/revision/latest?cb=20230417052633",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "archer",
+            "awekeningName": "Rosario"
+        },
+        {
+            "name": "Oracle",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/2/25/Monster-Oracle-Fire-Icon.png/revision/latest?cb=20230418060636",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "support",
+            "awekeningName": "Juno"
+        },
+        {
+            "name": "Genos",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/e/e4/Monster-Genos-Fire-Icon.png/revision/latest?cb=20230427220454",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "warrior",
+            "awekeningName": "Genos"
+        },
+        {
+            "name": "Atomic Samurai",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/70/Monster-Atomic_Samurai-Fire-Icon.png/revision/latest?cb=20230427220453",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "warrior",
+            "awekeningName": "Atomic Samurai"
+        },
+        {
+            "name": "Nine-tailed Fox",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/f0/Monster-Nine-tailed_Fox-Fire-Icon.png/revision/latest?cb=20230518232909",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "archer",
+            "awekeningName": "Shihwa"
+        },
+        {
+            "name": "Hyeonu Kim",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/6/65/Monster-Hyeonu_Kim-Fire-Icon.png/revision/latest?cb=20230410024744",
+            "baseStars": 5,
+            "element": "fire",
+            "type": "warrior",
+            "awekeningName": "Hyeonu Kim"
+        }
+    ]
+}

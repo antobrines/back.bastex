@@ -1,0 +1,659 @@
+{
+    "1": [
+        {
+            "name": "Forest Keeper",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/77/Monster-Forest_Keeper-Light-Icon.png/revision/latest?cb=20230410024738",
+            "baseStars": 1,
+            "element": "light",
+            "type": "archer",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Horned Frog",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/b/b8/Monster-Horned_Frog-Light-Icon.png/revision/latest?cb=20230410024743",
+            "baseStars": 1,
+            "element": "light",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Mushroom",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/4/4c/Monster-Mushroom-Light-Icon.png/revision/latest?cb=20230410024751",
+            "baseStars": 1,
+            "element": "light",
+            "type": "archer",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Mimick",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/b/b3/Monster-Mimick-Light-Icon.png/revision/latest?cb=20230410024749",
+            "baseStars": 1,
+            "element": "light",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Slime",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/34/Monster-Slime-Light-Icon.png/revision/latest?cb=20230410024755",
+            "baseStars": 1,
+            "element": "light",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Sandman",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/9/9d/Monster-Sandman-Light-Icon.png/revision/latest?cb=20230410024753",
+            "baseStars": 1,
+            "element": "light",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Ghost",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/8/8f/Monster-Ghost-Light-Icon.png/revision/latest?cb=20230410024739",
+            "baseStars": 1,
+            "element": "light",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Low Elemental",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/37/Monster-Low_Elemental-Light-Icon.png/revision/latest?cb=20230410024747",
+            "baseStars": 1,
+            "element": "light",
+            "type": "assassin",
+            "awekeningName": "none"
+        }
+    ],
+    "2": [
+        {
+            "name": "Maned Boar",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/17/Monster-Maned_Boar-Light-Icon.png/revision/latest?cb=20230410024748",
+            "baseStars": 2,
+            "element": "light",
+            "type": "knight",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Monster Flower",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/b/bb/Monster-Monster_Flower-Light-Icon.png/revision/latest?cb=20230410024750",
+            "baseStars": 2,
+            "element": "light",
+            "type": "archer",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Skull Soldier",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/a/ac/Monster-Skull_Soldier-Light-Icon.png/revision/latest?cb=20230410024754",
+            "baseStars": 2,
+            "element": "light",
+            "type": "warrior",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Mischievous Bat",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/a/aa/Monster-Mischievous_Bat-Light-Icon.png/revision/latest?cb=20230410024749",
+            "baseStars": 2,
+            "element": "light",
+            "type": "warrior",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Battle Scorpion",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/9/90/Monster-Battle_Scorpion-Light-Icon.png/revision/latest?cb=20230410024735",
+            "baseStars": 2,
+            "element": "light",
+            "type": "assassin",
+            "awekeningName": "none"
+        },
+        {
+            "name": "Surprise Box",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/30/Monster-Surprise_Box-Light-Icon.png/revision/latest?cb=20230410024756",
+            "baseStars": 2,
+            "element": "light",
+            "type": "warrior",
+            "awekeningName": "none"
+        }
+    ],
+    "3": [
+        {
+            "name": "Fairy",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/d/de/Monster-Fairy-Light-Icon.png/revision/latest?cb=20230410024738",
+            "baseStars": 3,
+            "element": "light",
+            "type": "support",
+            "awekeningName": "Neal"
+        },
+        {
+            "name": "Living Armor",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/a/a4/Monster-Living_Armor-Light-Icon.png/revision/latest?cb=20230418233226",
+            "baseStars": 3,
+            "element": "light",
+            "type": "assassin",
+            "awekeningName": "Silver"
+        },
+        {
+            "name": "Golem",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/5a/Monster-Golem-Light-Icon.png/revision/latest?cb=20230410024740",
+            "baseStars": 3,
+            "element": "light",
+            "type": "knight",
+            "awekeningName": "Groggo"
+        },
+        {
+            "name": "Grim Reaper",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/58/Monster-Grim_Reaper-Light-Icon.png/revision/latest?cb=20230410024741",
+            "baseStars": 3,
+            "element": "light",
+            "type": "warrior",
+            "awekeningName": "Prom"
+        },
+        {
+            "name": "Serpent",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/37/Monster-Serpent-Light-Icon.png/revision/latest?cb=20230410024754",
+            "baseStars": 3,
+            "element": "light",
+            "type": "warrior",
+            "awekeningName": "Elpuria"
+        },
+        {
+            "name": "Frankenstein",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/9/92/Monster-Frankenstein-Light-Icon.png/revision/latest?cb=20230410024738",
+            "baseStars": 3,
+            "element": "light",
+            "type": "warrior",
+            "awekeningName": "Driller"
+        },
+        {
+            "name": "Salamander",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/4/49/Monster-Salamander-Light-Icon.png/revision/latest?cb=20230410024753",
+            "baseStars": 3,
+            "element": "light",
+            "type": "warrior",
+            "awekeningName": "Sharman"
+        },
+        {
+            "name": "Harpy",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/b/ba/Monster-Harpy-Light-Icon.png/revision/latest?cb=20230410024742",
+            "baseStars": 3,
+            "element": "light",
+            "type": "knight",
+            "awekeningName": "Kabilla"
+        },
+        {
+            "name": "Charger Shark",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/14/Monster-Charger_Shark-Light-Icon.png/revision/latest?cb=20230418060631",
+            "baseStars": 3,
+            "element": "light",
+            "type": "assassin",
+            "awekeningName": "Rumicus"
+        },
+        {
+            "name": "Mummy",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/d/d7/Monster-Mummy-Light-Icon.png/revision/latest?cb=20230410024750",
+            "baseStars": 3,
+            "element": "light",
+            "type": "knight",
+            "awekeningName": "Sahara"
+        },
+        {
+            "name": "Imp",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/73/Monster-Imp-Light-Icon.png/revision/latest?cb=20230410025258",
+            "baseStars": 3,
+            "element": "light",
+            "type": "assassin",
+            "awekeningName": "Taru"
+        },
+        {
+            "name": "Pixie",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/9/9a/Monster-Pixie-Light-Icon.png/revision/latest?cb=20230410025259",
+            "baseStars": 3,
+            "element": "light",
+            "type": "support",
+            "awekeningName": "Cheryl"
+        },
+        {
+            "name": "Hellhound",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/f7/Monster-Hellhound-Light-Icon.png/revision/latest?cb=20230410025258",
+            "baseStars": 3,
+            "element": "light",
+            "type": "assassin",
+            "awekeningName": "Shamar"
+        },
+        {
+            "name": "Garuda",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/1a/Monster-Garuda-Light-Icon.png/revision/latest?cb=20230418233225",
+            "baseStars": 3,
+            "element": "light",
+            "type": "knight",
+            "awekeningName": "Teon"
+        },
+        {
+            "name": "Warbear",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/32/Monster-Warbear-Light-Icon.png/revision/latest?cb=20230410025259",
+            "baseStars": 3,
+            "element": "light",
+            "type": "warrior",
+            "awekeningName": "Lusha"
+        },
+        {
+            "name": "Elemental",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/74/Monster-Elemental-Light-Icon.png/revision/latest?cb=20230410025257",
+            "baseStars": 3,
+            "element": "light",
+            "type": "assassin",
+            "awekeningName": "Priz"
+        },
+        {
+            "name": "Yeti",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/6/6e/Monster-Yeti-Light-Icon.png/revision/latest?cb=20230410024758",
+            "baseStars": 3,
+            "element": "light",
+            "type": "knight",
+            "awekeningName": "Arkajan"
+        },
+        {
+            "name": "Gore",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/a/a0/Monster-Gore-Light-Icon.png/revision/latest?cb=20230410025258",
+            "baseStars": 3,
+            "element": "light",
+            "type": "warrior",
+            "awekeningName": "Silverback"
+        }
+    ],
+    "4": [
+        {
+            "name": "Penguin Knight",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/56/Monster-Penguin_Knight-Light-Icon.png/revision/latest?cb=20230418060636",
+            "baseStars": 4,
+            "element": "light",
+            "type": "knight",
+            "awekeningName": "Dona"
+        },
+        {
+            "name": "Vagabond",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/6/6e/Monster-Vagabond-Light-Icon.png/revision/latest?cb=20230418233226",
+            "baseStars": 4,
+            "element": "light",
+            "type": "knight",
+            "awekeningName": "Darion"
+        },
+        {
+            "name": "Mystic Witch",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/f8/Monster-Mystic_Witch-Light-Icon.png/revision/latest?cb=20230420202439",
+            "baseStars": 4,
+            "element": "light",
+            "type": "mage",
+            "awekeningName": "Linda"
+        },
+        {
+            "name": "High Elemental",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/7c/Monster-High_Elemental-Light-Icon.png/revision/latest?cb=20230418233226",
+            "baseStars": 4,
+            "element": "light",
+            "type": "support",
+            "awekeningName": "Shren"
+        },
+        {
+            "name": "Griffon",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/12/Monster-Griffon-Light-Icon.png/revision/latest?cb=20230418060632",
+            "baseStars": 4,
+            "element": "light",
+            "type": "assassin",
+            "awekeningName": "Shamann"
+        },
+        {
+            "name": "Inugami",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/0/02/Monster-Inugami-Light-Icon.png/revision/latest?cb=20230418060633",
+            "baseStars": 4,
+            "element": "light",
+            "type": "knight",
+            "awekeningName": "Belladeon"
+        },
+        {
+            "name": "Battle Mammoth",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/e/e1/Monster-Battle_Mammoth-Light-Icon.png/revision/latest?cb=20230418233224",
+            "baseStars": 4,
+            "element": "light",
+            "type": "knight",
+            "awekeningName": "Marble"
+        },
+        {
+            "name": "Lizardman",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/4/4c/Monster-Lizardman-Light-Icon.png/revision/latest?cb=20230418060634",
+            "baseStars": 4,
+            "element": "light",
+            "type": "warrior",
+            "awekeningName": "Glinodon"
+        },
+        {
+            "name": "Martial Cat",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/f8/Monster-Martial_Cat-Light-Icon.png/revision/latest?cb=20230418060634",
+            "baseStars": 4,
+            "element": "light",
+            "type": "assassin",
+            "awekeningName": "Xiao Ling"
+        },
+        {
+            "name": "Amazon",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/13/Monster-Amazon-Light-Icon.png/revision/latest?cb=20230418060631",
+            "baseStars": 4,
+            "element": "light",
+            "type": "archer",
+            "awekeningName": "Lyn"
+        },
+        {
+            "name": "Werewolf",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/a/a9/Monster-Werewolf-Light-Icon.png/revision/latest?cb=20230418233226",
+            "baseStars": 4,
+            "element": "light",
+            "type": "warrior",
+            "awekeningName": "Eshir"
+        },
+        {
+            "name": "Inferno",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/38/Monster-Inferno-Light-Icon.png/revision/latest?cb=20230418233226",
+            "baseStars": 4,
+            "element": "light",
+            "type": "archer",
+            "awekeningName": "Eludain"
+        },
+        {
+            "name": "Cow Girl",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/31/Monster-Cow_Girl-Light-Icon.png/revision/latest?cb=20230418060631",
+            "baseStars": 4,
+            "element": "light",
+            "type": "archer",
+            "awekeningName": "Loren"
+        },
+        {
+            "name": "Imp Champion",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/12/Monster-Imp_Champion-Light-Icon.png/revision/latest?cb=20230418233226",
+            "baseStars": 4,
+            "element": "light",
+            "type": "assassin",
+            "awekeningName": "Shaffron"
+        },
+        {
+            "name": "Harpu",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/4/41/Monster-Harpu-Light-Icon.png/revision/latest?cb=20230418233226",
+            "baseStars": 4,
+            "element": "light",
+            "type": "warrior",
+            "awekeningName": "Sia"
+        },
+        {
+            "name": "Howl",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/8/84/Monster-Howl-Light-Icon.png/revision/latest?cb=20230418060633",
+            "baseStars": 4,
+            "element": "light",
+            "type": "support",
+            "awekeningName": "Shushu"
+        },
+        {
+            "name": "Harg",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/fa/Monster-Harg-Light-Icon.png/revision/latest?cb=20230418060632",
+            "baseStars": 4,
+            "element": "light",
+            "type": "support",
+            "awekeningName": "Dova"
+        },
+        {
+            "name": "Epikion Priest",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/9/9f/Monster-Epikion_Priest-Light-Icon.png/revision/latest?cb=20230418060632",
+            "baseStars": 4,
+            "element": "light",
+            "type": "support",
+            "awekeningName": "Iona"
+        },
+        {
+            "name": "Lich",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/6/6c/Monster-Lich-Light-Icon.png/revision/latest?cb=20230418060634",
+            "baseStars": 4,
+            "element": "light",
+            "type": "mage",
+            "awekeningName": "Halphas"
+        },
+        {
+            "name": "Mumen Rider",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/9/93/Monster-Mumen_Rider-Light-Icon.png/revision/latest?cb=20230427220454",
+            "baseStars": 4,
+            "element": "light",
+            "type": "knight",
+            "awekeningName": "Mumen Rider"
+        },{
+            "name": "AV",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/c/c5/Monster-AV-Light-Icon.png/revision/latest?cb=20230417052632",
+            "baseStars": 4,
+            "element": "light",
+            "type": "support",
+            "awekeningName": "AV"
+        }
+    ],
+    "5": [
+        {
+            "name": "Polar Queen",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/c/cd/Monster-Polar_Queen-Light-Icon.png/revision/latest?cb=20230412214555",
+            "baseStars": 5,
+            "element": "light",
+            "type": "support",
+            "awekeningName": "Elenoa"
+        },
+        {
+            "name": "Beast Monk",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/f1/Monster-Beast_Monk-Light-Icon.png/revision/latest?cb=20230412214555",
+            "baseStars": 5,
+            "element": "light",
+            "type": "knight",
+            "awekeningName": "Shazaam"
+        },
+        {
+            "name": "Magic Knight",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/6/66/Monster-Magic_Knight-Light-Icon.png/revision/latest?cb=20230418060634",
+            "baseStars": 5,
+            "element": "light",
+            "type": "knight",
+            "awekeningName": "Iris"
+        },
+        {
+            "name": "Mermaid",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/58/Monster-Mermaid-Light-Icon.png/revision/latest?cb=20230418060635",
+            "baseStars": 5,
+            "element": "light",
+            "type": "support",
+            "awekeningName": "Molly"
+        },
+        {
+            "name": "Valkyrja",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/8/8a/Monster-Valkyrja-Light-Icon.png/revision/latest?cb=20230418060638",
+            "baseStars": 5,
+            "element": "light",
+            "type": "warrior",
+            "awekeningName": "Akroma"
+        },
+        {
+            "name": "Vampire",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/6/60/Monster-Vampire-Light-Icon.png/revision/latest?cb=20230417052634",
+            "baseStars": 5,
+            "element": "light",
+            "type": "archer",
+            "awekeningName": "Julianne"
+        },
+        {
+            "name": "Desert Queen",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/1d/Monster-Desert_Queen-Light-Icon.png/revision/latest?cb=20230417052633",
+            "baseStars": 5,
+            "element": "light",
+            "type": "support",
+            "awekeningName": "Isis"
+        },
+        {
+            "name": "Monkey King",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/f/f6/Monster-Monkey_King-Light-Icon.png/revision/latest?cb=20230418060635",
+            "baseStars": 5,
+            "element": "light",
+            "type": "warrior",
+            "awekeningName": "Qitian Dasheng"
+        },
+        {
+            "name": "Sylph",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/5/51/Monster-Sylph-Light-Icon.png/revision/latest?cb=20230418060637",
+            "baseStars": 5,
+            "element": "light",
+            "type": "mage",
+            "awekeningName": "Eredas"
+        },
+        {
+            "name": "Archangel",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/4/49/Monster-Archangel-Light-Icon.png/revision/latest?cb=20230412214555",
+            "baseStars": 5,
+            "element": "light",
+            "type": "knight",
+            "awekeningName": "Artamiel"
+        },
+        {
+            "name": "Occult Girl",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/7e/Monster-Occult_Girl-Light-Icon.png/revision/latest?cb=20230418060635",
+            "baseStars": 5,
+            "element": "light",
+            "type": "support",
+            "awekeningName": "Lora"
+        },
+        {
+            "name": "Undine",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/7c/Monster-Undine-Light-Icon.png/revision/latest?cb=20230418060638",
+            "baseStars": 5,
+            "element": "light",
+            "type": "support",
+            "awekeningName": "Icasha"
+        },
+        {
+            "name": "Panda Warrior",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/3/39/Monster-Panda_Warrior-Light-Icon.png/revision/latest?cb=20230418060636",
+            "baseStars": 5,
+            "element": "light",
+            "type": "warrior",
+            "awekeningName": "Tian Lang"
+        },
+        {
+            "name": "Ifrit",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/9/9e/Monster-Ifrit-Light-Icon.png/revision/latest?cb=20230414214834",
+            "baseStars": 5,
+            "element": "light",
+            "type": "archer",
+            "awekeningName": "Elsharion"
+        },
+        {
+            "name": "Jack-o'-lantern",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/1a/Monster-Jack-o%27-lantern-Light-Icon.png/revision/latest?cb=20230418060633",
+            "baseStars": 5,
+            "element": "light",
+            "type": "support",
+            "awekeningName": "Misty"
+        },
+        {
+            "name": "Joker",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/2/2a/Monster-Joker-Light-Icon.png/revision/latest?cb=20230418060633",
+            "baseStars": 5,
+            "element": "light",
+            "type": "mage",
+            "awekeningName": "Figaro"
+        },
+        {
+            "name": "Kobold Bomber",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/2/25/Monster-Kobold_Bomber-Light-Icon.png/revision/latest?cb=20230418060634",
+            "baseStars": 5,
+            "element": "light",
+            "type": "mage",
+            "awekeningName": "Dover"
+        },
+        {
+            "name": "Chimera",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/a/a7/Monster-Chimera-Light-Icon.png/revision/latest?cb=20230418060631",
+            "baseStars": 5,
+            "element": "light",
+            "type": "knight",
+            "awekeningName": "Shan"
+        },
+        {
+            "name": "Sky Dancer",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/2/29/Monster-Sky_Dancer-Light-Icon.png/revision/latest?cb=20230418060637",
+            "baseStars": 5,
+            "element": "light",
+            "type": "support",
+            "awekeningName": "Yeonhong"
+        },
+        {
+            "name": "Pirate Captain",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/7/72/Monster-Pirate_Captain-Light-Icon.png/revision/latest?cb=20230418060637",
+            "baseStars": 5,
+            "element": "light",
+            "type": "assassin",
+            "awekeningName": "Brig"
+        },
+        {
+            "name": "Raven",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/0/07/Monster-Raven-Light-Icon.png/revision/latest?cb=20230418060637",
+            "baseStars": 5,
+            "element": "light",
+            "type": "assassin",
+            "awekeningName": "Laguiole"
+        },
+        {
+            "name": "Pioneer",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/d/d3/Monster-Pioneer-Light-Icon.png/revision/latest?cb=20230418060636",
+            "baseStars": 5,
+            "element": "light",
+            "type": "support",
+            "awekeningName": "Nigong"
+        },
+        {
+            "name": "Beetle Knight",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/8/88/Monster-Beetle_Knight-Light-Icon.png/revision/latest?cb=20230418060631",
+            "baseStars": 5,
+            "element": "light",
+            "type": "knight",
+            "awekeningName": "Sir Tityus"
+        },
+        {
+            "name": "Hell Lady",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/1/1b/Monster-Hell_Lady-Light-Icon.png/revision/latest?cb=20230418060632",
+            "baseStars": 5,
+            "element": "light",
+            "type": "warrior",
+            "awekeningName": "Asima"
+        },
+        {
+            "name": "Harp Magician",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/d/d2/Monster-Harp_Magician-Light-Icon.png/revision/latest?cb=20230420202439",
+            "baseStars": 5,
+            "element": "light",
+            "type": "support",
+            "awekeningName": "Celia"
+        },
+        {
+            "name": "Vampire Hunter",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/2/20/Monster-Vampire_Hunter-Light-Icon.png/revision/latest?cb=20230417052633",
+            "baseStars": 5,
+            "element": "light",
+            "type": "archer",
+            "awekeningName": "Cruz"
+        },
+        {
+            "name": "Oracle",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/c/c6/Monster-Oracle-Light-Icon.png/revision/latest?cb=20230418060636",
+            "baseStars": 5,
+            "element": "light",
+            "type": "support",
+            "awekeningName": "Laima"
+        },
+        {
+            "name": "Nine-tailed Fox",
+            "image": "https://static.wikia.nocookie.net/sw-chronicles/images/4/4d/Monster-Nine-tailed_Fox-Light-Icon.png/revision/latest?cb=20230518232909",
+            "baseStars": 5,
+            "element": "light",
+            "type": "archer",
+            "awekeningName": "Chamie"
+        }
+    ]
+}
