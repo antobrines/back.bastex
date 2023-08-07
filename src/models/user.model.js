@@ -14,10 +14,12 @@ const userSchema = mongoose.Schema({
     type: types.String,
     required: true,
   },
-  monsters: [{
-    type: types.ObjectId,
-    ref: 'MonsterOwn',
-  }],
+  monsters: [
+    {
+      type: types.ObjectId,
+      ref: 'MonsterOwn',
+    },
+  ],
   createdAt: {
     type: types.Date,
     required: true,
@@ -33,11 +35,6 @@ const userSchema = mongoose.Schema({
     required: false,
     enum: ['Cleaf', 'Kina', 'Orbia', 'Soleta'],
   },
-  guild: {
-    type: types.ObjectId,
-    required: true,
-    ref: 'Guild',
-  }
 });
 
 const User = mongoose.model('User', userSchema);

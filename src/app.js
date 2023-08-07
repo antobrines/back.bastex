@@ -12,9 +12,7 @@ const session = require('express-session');
 const passport = require('passport');
 const cookieParser = require('cookie-parser');
 const MongoStore = require('connect-mongo');
-const config = require('./config');
 require('./strategies/discord');
-app.enable('trust proxy');
 app.use(
   cors({
     credentials: true,
@@ -29,9 +27,9 @@ app.use(
     resave: false,
     saveUninitialized: false,
     cookie: {
-      maxAge: 600000000000000,
-      sameSite: 'none',
       secure: true,
+      maxAge: 600000000000000,
+      httpOnly: true,
     },
     store: MongoStore.create({
       mongoUrl:
@@ -43,7 +41,8 @@ app.use(
 app.use(passport.initialize({ name: 'discord' }));
 app.use(passport.session());
 
-app.set('trust proxy', 1);
+// app.set('trust proxy', 1);
+app.enable('trust proxy');
 app.use(morgan('tiny'));
 app.use(helmet());
 app.use(express.json());
