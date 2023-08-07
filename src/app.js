@@ -13,28 +13,33 @@ const passport = require('passport');
 const cookieParser = require('cookie-parser');
 const MongoStore = require('connect-mongo');
 require('./strategies/discord');
-app.use(cors({
-  credentials: true,
-  secure: false,
-  origin: true
-}));
+app.use(
+  cors({
+    credentials: true,
+    secure: true,
+    origin: true,
+  })
+);
 
 app.use(cookieParser());
 
-app.use(session({
-  secret: 'keyboard cat',
-  resave: false,
-  saveUninitialized: false,
-  cookie: {
-    secure: false,
-    maxAge: 600000000000000,
-    httpOnly: false,
-  },
-  store: MongoStore.create({
-    mongoUrl: 'mongodb+srv://kemonas:RfiS8aw3jV7yU5uc@wyvria.ivfhtin.mongodb.net/sessions',
-    ttl: 600000000000000
+app.use(
+  session({
+    secret: 'keyboard cat',
+    resave: false,
+    saveUninitialized: false,
+    cookie: {
+      secure: false,
+      maxAge: 600000000000000,
+      httpOnly: true,
+    },
+    store: MongoStore.create({
+      mongoUrl:
+        'mongodb+srv://kemonas:RfiS8aw3jV7yU5uc@wyvria.ivfhtin.mongodb.net/sessions',
+      ttl: 600000000000000,
+    }),
   })
-}));
+);
 app.use(passport.initialize({ name: 'discord' }));
 app.use(passport.session());
 
