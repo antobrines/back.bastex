@@ -22,7 +22,7 @@ app.use(
 );
 
 app.use(cookieParser());
-
+app.set('trust proxy', 1);
 app.use(
   session({
     secret: 'keyboard cat',
