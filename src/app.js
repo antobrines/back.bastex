@@ -28,11 +28,13 @@ app.use(
     secret: 'keyboard cat',
     resave: false,
     saveUninitialized: true,
+    // for vercel and setup for a client not same server
     cookie: {
-      secure: false,
+      secure: true,
+      sameSite: 'none',
       maxAge: 600000000000000,
-      httpOnly: true,
     },
+
     store: MongoStore.create({
       mongoUrl:
         'mongodb+srv://kemonas:RfiS8aw3jV7yU5uc@wyvria.ivfhtin.mongodb.net/sessions',
