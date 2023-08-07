@@ -8,16 +8,8 @@ router.get('/discord', passport.authenticate('discord'), (req, res) => {});
 
 router.get(
   '/discord/callback',
-  passport.authenticate('discord', { failureRedirect: '/', session: true }),
+  passport.authenticate('discord'),
   (req, res) => {
-    // res.send(req.user);
-    // send the cookie "connect.sid" to the client
-    res.cookie('connect.sid', req.cookies['connect.sid'], {
-      httpOnly: true,
-      sameSite: 'none',
-      secure: true,
-    });
-    res.redirect(config.urlFront + 'user/info');
     res.redirect(config.urlFront + 'user/info');
   }
 );
