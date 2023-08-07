@@ -12,6 +12,7 @@ const session = require('express-session');
 const passport = require('passport');
 const cookieParser = require('cookie-parser');
 const MongoStore = require('connect-mongo');
+var cookieSession = require('cookie-session');
 require('./strategies/discord');
 app.use(
   cors({
@@ -21,15 +22,17 @@ app.use(
 );
 
 app.use(cookieParser());
+app.set('trust proxy', 1);
+app.enable('trust proxy');
 app.use(
   session({
     secret: 'keyboard cat',
     resave: false,
-    saveUninitialized: false,
+    saveUninitialized: true,
     cookie: {
-      secure: true,
+      secure: false,
       maxAge: 600000000000000,
-      httpOnly: true,
+      httpOnly: false,
     },
     store: MongoStore.create({
       mongoUrl:
