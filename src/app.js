@@ -29,10 +29,13 @@ app.use(
     resave: false,
     saveUninitialized: true,
     cookie: {
-      secure: false,
+      secure: true,
       maxAge: 600000000000000,
-      httpOnly: false,
+      httpOnly: true,
+      origin: true,
+      trusted: true,
     },
+    proxy: true,
     store: MongoStore.create({
       mongoUrl:
         'mongodb+srv://kemonas:RfiS8aw3jV7yU5uc@wyvria.ivfhtin.mongodb.net/sessions',
