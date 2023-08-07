@@ -1,15 +1,18 @@
 const express = require('express');
 const router = express.Router();
 const userController = require('../controllers/user.controller');
-
+const config = require('../config/config');
 const passport = require('passport');
 
-router.get('/discord', passport.authenticate('discord'), (req, res) => {
-});
+router.get('/discord', passport.authenticate('discord'), (req, res) => {});
 
-router.get('/discord/callback', passport.authenticate('discord'), (req, res) => {
-  res.redirect('http://localhost:4200/user/info');
-});
+router.get(
+  '/discord/callback',
+  passport.authenticate('discord'),
+  (req, res) => {
+    res.redirect(config.urlFront + 'user/info');
+  }
+);
 
 router.get('/discord/me', userController.me);
 router.get('/:id/monsters', userController.monsters);
