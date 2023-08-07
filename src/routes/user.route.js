@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const userController = require('../controllers/user.controller');
-const config = require('../config/config');
+const config = require('../config');
 const passport = require('passport');
 
 router.get('/discord', passport.authenticate('discord'), (req, res) => {});
