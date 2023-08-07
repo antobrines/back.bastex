@@ -10,7 +10,7 @@ router.get(
   '/discord/callback',
   passport.authenticate('discord', { failureRedirect: '/', session: true }),
   (req, res) => {
-    res.res(req.user);
+    res.send(req.user);
     // res.redirect(config.urlFront + 'user/info');
   }
 );
