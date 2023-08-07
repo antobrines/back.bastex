@@ -22,20 +22,12 @@ app.use(
 
 app.use(cookieParser());
 app.set('trust proxy', 1);
-app.enable('trust proxy');
 app.use(
   session({
     secret: 'keyboard cat',
     resave: false,
     saveUninitialized: true,
-    cookie: {
-      secure: true,
-      maxAge: 600000000000000,
-      httpOnly: true,
-      origin: true,
-      trusted: true,
-    },
-    proxy: true,
+    cookie: {},
     store: MongoStore.create({
       mongoUrl:
         'mongodb+srv://kemonas:RfiS8aw3jV7yU5uc@wyvria.ivfhtin.mongodb.net/sessions',
