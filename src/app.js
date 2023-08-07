@@ -22,7 +22,7 @@ app.use(
 );
 
 app.use(cookieParser());
-app.set('trust proxy', 1);
+// app.set('trust proxy', 1);
 app.use(
   session({
     secret: 'keyboard cat',
@@ -31,7 +31,7 @@ app.use(
     cookie: {
       maxAge: 600000000000000,
       sameSite: 'none',
-      secure: 'auto',
+      secure: true,
     },
     proxy: true,
     store: MongoStore.create({
