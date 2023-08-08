@@ -12,6 +12,7 @@ const session = require('express-session');
 const passport = require('passport');
 const cookieParser = require('cookie-parser');
 const MongoStore = require('connect-mongo');
+const config = require('./config');
 require('./strategies/discord');
 app.use(
   cors({
@@ -28,7 +29,6 @@ app.use(
     secret: 'keyboard cat',
     resave: false,
     saveUninitialized: true,
-    // for vercel and setup for a client not same server
     cookie: {
       secure: true,
       sameSite: 'none',
@@ -36,8 +36,7 @@ app.use(
     },
 
     store: MongoStore.create({
-      mongoUrl:
-        'mongodb+srv://kemonas:RfiS8aw3jV7yU5uc@wyvria.ivfhtin.mongodb.net/sessions',
+      mongoUrl: `${config.db.url}sessions`,
       ttl: 600000000000000,
     }),
   })
